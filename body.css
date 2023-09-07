@@ -1,0 +1,14 @@
+p {
+    color: white;
+}
+body {
+    background-color: #8a8a8a;
+  }
+  p.b {
+    font-family: Helvetica;
+  }
+  body  {
+    background-image: url("IMG_0040.jpg");
+    background-color: #cccccc;
+  }
+  a { color: white; }
